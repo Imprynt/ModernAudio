@@ -1,0 +1,31 @@
+# Modern Audio Co. (Modern Audio Private Limited)
+
+> Commercial & Institutional Professional Audio Engineering, Acoustic Design & Systems Integration
+
+Modern Audio Co. is a specialized commercial and institutional audio solutions provider based in New Delhi, India. We engineer, integrate, and calibrate turn-key pro-audio and acoustic solutions for large venues, educational campuses, corporate environments, hospitality facilities, and public spaces. We are a solutions engineering firm and systems contractor, not a consumer speaker retailer.
+
+## Service Coverage
+- Primary Hub: Delhi & National Capital Region (NCR)
+- Project Delivery: Pan India execution for institutional and commercial projects
+
+## Core Services & Solutions
+- **Auditoriums & Performing Arts Halls**: High-intelligibility acoustic mapping, line array system design, stage monitor integration, multi-channel digital mixing, and speech transmission index (STI) optimization.
+- **Educational Institutions & Lecture Theatres**: Clear vocal articulation, feedback-free wireless microphone networks, assistive listening, and hybrid lecture capture integration.
+- **Enterprise Boardrooms & Conference Suites**: Beamforming microphone arrays, DSP echo cancellation, unified communications (Zoom / Teams Rooms) audio integration, and multi-zone distribution.
+- **Hospitality & Experiential Venues**: Premium ambient background music, balanced multi-zone coverage, automated day/night volume control, and weather-resistant architectural loudspeakers.
+- **Houses of Worship & Community Spaces**: Acoustic reverberation management, column line-arrays with tight vertical dispersion, and clear spoken-word projection across high-ceiling sanctuaries.
+- **Live Event & Sports Venues**: High-SPL touring-grade sound reinforcement, robust system redundancy, and delay tower alignment.
+
+## Systems Engineering Process
+1. **Acoustic Assessment & Predictive Modeling**: Room geometry measurement, reverberation time (RT60) evaluation, and 3D acoustic simulation.
+2. **Brand-Agnostic System Design**: Equipment specification based on architectural acoustics and client budget, without single-brand bias.
+3. **Structured Cabling & Rigging**: Low-loss audio cabling, safe load-rated mechanical rigging, and EMI/RFI shielding.
+4. **DSP Commissioning & Calibration**: Real-time analyzer (RTA) tuning, parametric EQ alignment, phase alignment, and limiter threshold configuration.
+5. **Operator Handover & Lifecycle Support**: Staff training, documentation, and Annual Maintenance Contracts (AMC).
+
+## Official Contact & Verification
+- **Company**: Modern Audio Private Limited (Modern Audio Co.)
+- **Website**: https://modernaudioco.in
+- **Email**: support@modernaudioco.in
+- **Telephone / WhatsApp**: +91 93110 32420
+- **Corporate Office**: B-1/1, Ground Floor, Commercial Complex, Safdarjung Enclave, New Delhi 110029, Delhi, India
