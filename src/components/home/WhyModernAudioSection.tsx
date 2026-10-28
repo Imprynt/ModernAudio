@@ -17,12 +17,12 @@ const VALUES: CoreValue[] = [
   {
     title: "High-Fidelity Sound",
     description:
-      "Acoustically balanced hardware engineered for speech intelligibility and dynamic music reproduction.",
+      "Balanced sound systems engineered for clear speech and rich music.",
   },
   {
     title: "Expert Setup Team",
     description:
-      "Experienced technicians coordinating speaker mounting, cable routing, gain staging, and signal tuning.",
+      "Experienced technicians handeling speaker mounting, wiring, gain levels, and signal tuning.",
   },
   {
     title: "Transparent Pricing",
@@ -32,22 +32,22 @@ const VALUES: CoreValue[] = [
   {
     title: "Trusted Audio Partners",
     description:
-      "Direct access to established professional audio manufacturers and commercial AV distributors.",
+      "Direct access to established audio manufacturers and commercial audio distributors.",
   },
   {
     title: "Tailored Solutions",
     description:
-      "System planning matched to your room dimensions, venue architecture, and functional use cases.",
+      "System planning matched to your room dimensions, venue layout, and functional needs.",
   },
   {
     title: "On-Time Delivery & Setup",
     description:
-      "Structured project timelines coordinated around your facility schedule and handover deadlines.",
+      "Project timely coordinated around your schedule and handover deadlines.",
   },
   {
     title: "After-Sales Support",
     description:
-      "Operational walkthroughs, operator orientation, and dependable technical support after setup.",
+      "Operational guidance, operator training, and full technical support after setup.",
   },
 ];
 

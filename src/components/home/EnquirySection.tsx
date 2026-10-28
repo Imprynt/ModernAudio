@@ -234,7 +234,7 @@ export default function EnquirySection({
       try {
         sessionStorage.setItem("macpl_last_event_id", eventID);
         sessionStorage.setItem("macpl_lead_fired", "true");
-      } catch {}
+      } catch { }
 
       // Fire Lead event with eventID for Meta Pixel & Google Analytics
       trackEvent("Lead", { eventID, spaceType: formData.spaceType, city: formData.city }, { eventID });
@@ -296,7 +296,7 @@ export default function EnquirySection({
               lineHeight: 1.6,
             }}
           >
-            Share your room dimensions, venue type, and requirements with our Chandni Chowk team for an honest evaluation and configuration plan.
+            Share your room dimensions, venue type, and requirements with our experienced technical team for an honest evaluation and setup plan.
           </p>
         </div>
       )}
@@ -668,7 +668,7 @@ export default function EnquirySection({
                 marginTop: "0.45rem",
               }}
             >
-              No need for technical specs. Just describe how the room will be used, and our team will assist with the rest.
+              No need for technical specs. Just describe how the room will be used, and our team will assist you.
             </span>
           </div>
 
@@ -707,7 +707,7 @@ export default function EnquirySection({
             </button>
 
             <span style={{ fontSize: "0.8rem", color: "#777777", fontFamily: "var(--font-family-sans)" }}>
-              Reviewed by our Chandni Chowk team
+              Reviewed by our technical team
             </span>
           </div>
 

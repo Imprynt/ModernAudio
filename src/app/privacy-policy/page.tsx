@@ -51,7 +51,7 @@ export default function PrivacyPolicyPage() {
           </h1>
 
           <p style={{ fontSize: "0.85rem", color: "#8E8E8E", marginBottom: "3rem" }}>
-            Last Updated: October 2026 · Modern Audio Company Private Limited (Chandni Chowk, Delhi)
+            Last Updated: October 2026 · Modern Audio Company Private Limited (Born in Chandni Chowk, Delhi)
           </p>
 
           <div style={{ display: "flex", flexDirection: "column", gap: "2.5rem", fontSize: "0.98rem", lineHeight: 1.7, color: "#CCCCCC" }}>
@@ -74,7 +74,7 @@ export default function PrivacyPolicyPage() {
               <ul style={{ paddingLeft: "1.5rem", display: "flex", flexDirection: "column", gap: "0.5rem" }}>
                 <li><strong>Identity Data:</strong> Full name of the representative or project lead.</li>
                 <li><strong>Contact Data:</strong> Mobile phone number, telephone number, and official email address.</li>
-                <li><strong>Project Specifications:</strong> Venue type (e.g., auditorium, school, hotel, place of worship), city or geographic location, project timeline, and functional audio requirements.</li>
+                <li><strong>Project Specifications:</strong> Venue type (e.g., auditorium, school, hotel, hospital, malls, metro stations, place of worship), city or geographic location, project timeline, and functional audio requirements.</li>
                 <li><strong>Technical &amp; Marketing Attribution:</strong> Non-personally identifiable visit metadata including landing page URL, HTTP referrer, UTM parameters (utm_source, utm_medium, utm_campaign), Meta Click ID (fbclid), and Google Click ID (gclid) for measuring advertising effectiveness.</li>
               </ul>
               <p style={{ marginTop: "0.85rem" }}>
@@ -114,7 +114,7 @@ export default function PrivacyPolicyPage() {
                 5. Data Retention &amp; Security
               </h2>
               <p>
-                Enquiry details are retained only as long as necessary to fulfill commercial consultation, ongoing project delivery, or statutory accounting obligations. Technical submissions are transmitted via TLS encrypted protocols and access is restricted to verified personnel at our Chandni Chowk facility.
+                Enquiry details are retained only as long as necessary to fulfill commercial consultation, ongoing project delivery, or statutory accounting obligations. Technical submissions are transmitted via TLS encrypted protocols and access is restricted to verified personnel at our place.
               </p>
             </section>
 
@@ -130,7 +130,17 @@ export default function PrivacyPolicyPage() {
                 <p>{SITE_CONFIG.address.street}</p>
                 <p>{SITE_CONFIG.address.area}, {SITE_CONFIG.address.city} {SITE_CONFIG.address.postalCode}, India</p>
                 <p style={{ marginTop: "0.5rem" }}>Email: <a href={`mailto:${SITE_CONFIG.contact.email}`} style={{ color: "#FFFFFF" }}>{SITE_CONFIG.contact.email}</a></p>
-                <p>Direct: {SITE_CONFIG.contact.phoneDisplay}</p>
+                <div style={{ display: "flex", gap: "0.4rem" }}>
+                  <span>Direct:</span>
+                  <div style={{ display: "flex", flexDirection: "column" }}>
+                    <a href={`tel:${SITE_CONFIG.contact.phone}`} style={{ color: "#FFFFFF", textDecoration: "none" }}>
+                      {SITE_CONFIG.contact.phoneDisplay}
+                    </a>
+                    <a href={`tel:${SITE_CONFIG.contact.secondaryPhone}`} style={{ color: "#FFFFFF", textDecoration: "none" }}>
+                      {SITE_CONFIG.contact.secondaryPhoneDisplay}
+                    </a>
+                  </div>
+                </div>
               </div>
             </section>
           </div>

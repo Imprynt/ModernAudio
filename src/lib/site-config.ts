@@ -159,7 +159,7 @@ export const SITE_CONFIG = {
 
   // Qualified brand network statement
   brandNetworkStatement:
-    "Operating from our Chandni Chowk hub, serving commercial venues, institutional campuses, and hospitality spaces across Delhi, NCR & Pan India with direct access to leading professional audio manufacturers and commercial AV distributors.",
+    "Native of Chandni Chowk, serving commercial venues, institutional campuses, and hospitality spaces across Delhi, NCR & Pan India with direct access to leading professional audio manufacturers and commercial audio distributors.",
 
   // Primary Call-To-Action Labels (Standardized to two primary types across site)
   cta: {

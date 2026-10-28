@@ -52,24 +52,24 @@ export default function CredibilitySection() {
   const pillars = [
     {
       num: "01",
-      title: "Commercial AV Equipment Sourcing",
+      title: "Commercial Audio Equipment Sourcing",
       tag: "OBJECTIVE SELECTION",
       description:
-        "Direct access to leading professional audio manufacturers and commercial AV distributors, ensuring equipment is selected to match your room's requirements rather than a single restricted product line.",
+        "Direct access to leading professional audio manufacturers and commercial Audio distributors, Modern Audio ensures the right equipment for your room, rather than just pushing one brand.",
     },
     {
       num: "02",
-      title: "Requirement-Led System Planning",
+      title: "Requirement Based On Setup Plan",
       tag: "CUSTOM SIZING",
       description:
-        "We configure systems around physical room layout, audience coverage, and operational workflow. Every quotation is planned after reviewing your venue dimensions and intended application.",
+        "We design systems around physical room layout, audience coverage, and operational workflow. Every quotation is planned after checking your venue dimensions and your purpose.",
     },
     {
       num: "03",
-      title: "Transparent Quotations & Coordinated Setup",
+      title: "Transparent Quotations & Organised Setup",
       tag: "DELIBERATE HANDOVER",
       description:
-        "Clear itemized component breakdowns with scheduled delivery, physical mounting coordination, and operational orientation as applicable to the requirement.",
+        "Clear list of products with scheduled delivery, organised installations, and operational training as applicable to the requirement.",
     },
   ];
 
@@ -144,7 +144,7 @@ export default function CredibilitySection() {
                 marginBottom: "1.25rem",
               }}
             >
-              Rooted in Chandni Chowk, Delhi.
+              Born in Chandni Chowk, Raised by India.
             </h3>
 
             <p
@@ -155,7 +155,7 @@ export default function CredibilitySection() {
                 marginBottom: "1.75rem",
               }}
             >
-              Headquartered at {SITE_CONFIG.address.street}, {SITE_CONFIG.address.area}, Modern Audio Company Private Limited coordinates commercial audio equipment supply and sound system configurations from the historic audio trade center of Old Delhi. We coordinate systems for commercial facilities, educational institutions, hospitality spaces, and religious halls across Delhi, NCR & Pan India.
+              Modern Audio Company Private Limited coordinates commercial audio equipment supply and sound system configurations from the verified distributor networks. We coordinate systems for commercial facilities, educational institutions, hospitality spaces, and religious halls across Delhi, NCR & Pan India.
             </p>
 
             <div

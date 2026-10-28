@@ -65,19 +65,19 @@ export default function RequirementFactorsSection() {
       num: "01",
       title: "The Type of Venue",
       tag: "VENUE ARCHITECTURE",
-      detail: "Whether an educational auditorium, classroom, shopping mall, hospital, metro station, sacred prayer hall, hotel, or restaurant. Each demands a distinct system configuration.",
+      detail: "Whether an educational auditorium, classroom, shopping mall, hospital, metro station, prayer hall, hotel or restaurant. Each demands a clear, different sound setup.",
     },
     {
       num: "02",
       title: "Digital vs Analog Setup",
       tag: "SIGNAL TOPOLOGY",
-      detail: "Matching digital or analog power amplifiers, mixing consoles with echo/delay/reverb, and sound processors with feedback destroyers to your operational workflow.",
+      detail: "Matching digital or analog power amplifiers, mixing consoles with echo/delay/reverb, and sound processors with feedback destroyers to your daily workflow.",
     },
     {
       num: "03",
       title: "Active vs Passive Systems",
       tag: "POWER DISTRIBUTION",
-      detail: "Selecting between self-powered active loudspeaker arrays or external multi-channel power amplifiers driving passive wall, ceiling, or floor-mounted speakers.",
+      detail: "Selecting between self-powered active speaker or a multi-channel power amplifiers driving passive speakers (wall, ceiling, or floor-mounting).",
     },
     {
       num: "04",
@@ -89,7 +89,7 @@ export default function RequirementFactorsSection() {
       num: "05",
       title: "Communication & Zoning Needs",
       tag: "ZONING & TALKBACK",
-      detail: "Evaluating multi-zone volume routing, centralized campus broadcasting, staff talkback, or dedicated kitchen talkback sound systems.",
+      detail: "Evaluating multi-zone volume line, centralized campus broadcasting, and dedicated talkback sound systems.",
     },
     {
       num: "06",
