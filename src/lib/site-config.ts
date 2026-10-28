@@ -72,10 +72,10 @@ export const SITE_CONFIG = {
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://modernaudioco.in",
 
   // Brand Messaging
-  tagline: "Complete Audio Solutions. Designed Around You.",
+  tagline: "Complete Audio Solutions. Designed Around Your Space.",
   promise: "You bring the requirement. We have the audio.",
   description:
-    "Headquartered at Chandni Chowk, Delhi, Modern Audio Company Private Limited provides complete commercial, institutional, and hospitality audio systems across Delhi, NCR & Pan India.",
+    "Born in Chandni Chowk, Delhi, Modern Audio Company Private Limited provides complete commercial, institutional, and hospitality audio systems across Delhi, NCR & Pan India.",
 
   // Physical & Registered Address
   address: {
@@ -190,7 +190,7 @@ export const SITE_CONFIG = {
       imageAlt: "Multi-channel commercial power amplifiers and digital distribution equipment",
       characteristics: ["Single-channel through multiple-channel inputs and outputs", "Commercial installation grade"],
       description:
-        "Power amplification across digital and analog architectures, spanning single-channel units to multi-channel distribution amplifiers for commercial and institutional sound systems.",
+        "Powerful amplifiers with digital and analog systems, ranging from single-channel units to multi-channel distribution amplifiers for commercial and institutional sound systems.",
       typicalSetups: ["Single-channel amplification", "Multi-channel distribution", "Active/Passive speaker matching"],
     },
     {
@@ -201,7 +201,7 @@ export const SITE_CONFIG = {
       imageAlt: "Wall-mounted and flush ceiling architectural speakers for institutional sound",
       characteristics: ["Wall-mounted speaker setups", "Ceiling-mounted speaker setups", "Floor-mounted speaker setups"],
       description:
-        "Comprehensive indoor and outdoor speaker systems across active (powered) and passive configurations, accommodating wall mounting, flush ceiling placement, and floor installations.",
+        "Complete indoor and outdoor speaker systems across active (powered) and passive setups, for wall mounting, ceiling placement, and floor installations.",
       typicalSetups: ["Wall-mount speaker arrays", "Ceiling speaker networks", "Floor-standing systems"],
     },
     {
@@ -218,7 +218,7 @@ export const SITE_CONFIG = {
         "Stage microphones",
       ],
       description:
-        "Wired and wireless microphone solutions configured for podium speech, stage performances, academic presentation, and conference room discussions.",
+        "Wired and wireless microphone solutions for podium speech, stage performances, academic presentation, and conference room discussions.",
       typicalSetups: ["Wireless podium mics", "Lapel and headset packs", "Tabletop conference units", "Stage vocal microphones"],
     },
     {
@@ -232,7 +232,7 @@ export const SITE_CONFIG = {
         "Digital Echo, Delay & Reverb processing",
       ],
       description:
-        "Digital and analog mixing consoles supporting versatile input/output channel routing with built-in digital echo, delay, and reverb capabilities for balanced sound coordination.",
+        "Digital and analog mixing consoles supporting multiple input/output channel routing with built-in digital echo, delay, and reverb options for clear and balanced sound.",
       typicalSetups: ["Auditorium mixing consoles", "Live-stage performance mixers", "Multi-input routing setups"],
     },
     {
@@ -243,7 +243,7 @@ export const SITE_CONFIG = {
       imageAlt: "Digital audio signal processors with integrated automated feedback destroyers",
       characteristics: ["Integrated feedback destroyers", "Signal stability management"],
       description:
-        "Digital and analog signal processors equipped with feedback destroyers to eliminate howling, protect loudspeakers, and maintain clean system stability.",
+        "Digital and analog signal processors equipped with feedback destroyers to eliminate howling, protect loudspeakers, and maintain clean system stability for maintaining 'सुर' and 'ताल' of every setup.",
       typicalSetups: ["Feedback elimination", "Signal balancing", "System protection routing"],
     },
     {
@@ -254,7 +254,7 @@ export const SITE_CONFIG = {
       imageAlt: "High-output battery-powered portable PA systems with wireless microphone support",
       characteristics: ["Wide-area coverage", "Massive people reach", "Large battery life"],
       description:
-        "High-output active and passive portable sound systems designed for broad area coverage, outdoor gatherings, and mobile requirements with extended battery autonomy.",
+        "High-output active and passive portable sound systems designed for broad area coverage, outdoor gatherings, and mobile requirements with extended battery backup.",
       typicalSetups: ["Outdoor gathering sound", "Mobile public address", "Battery-operated portable systems"],
     },
     {
@@ -270,13 +270,13 @@ export const SITE_CONFIG = {
     },
     {
       id: "kitchen-talkback",
-      name: "Kitchen Talkback Systems",
+      name: "Talkback Systems",
       scope: "Dedicated Commercial Voice Setup",
       image: "/images/equipment-kitchen-talkback.jpg",
       imageAlt: "Two-way commercial kitchen talkback intercom station for restaurants and hotels",
       characteristics: ["Two-way service talkback", "High-noise station clarity", "Durable interface stations"],
       description:
-        "Dedicated commercial talkback sound systems designed specifically for restaurants, dining facilities, and hospitality kitchens to ensure instant communication between pass counters and food prep lines.",
+        "Dedicated commercial talkback sound systems designed for shopping malls, restaurants, cinema halls, dining facilities, schools, colleges and hospitality kitchens to ensure instant communication between representative and client.",
       typicalSetups: ["Kitchen pass talkback", "Service-to-prep communication", "Hospitality intercom routing"],
     },
     {
@@ -306,7 +306,7 @@ export const SITE_CONFIG = {
       tagline: "High-capacity venues requiring structured sound and stage management",
       headline: "Comprehensive audio systems tailored for large auditoriums, cultural theatres, and multi-purpose halls.",
       description:
-        "Auditorium setups require coordinated sound delivery from stage to the rear seats. Modern Audio coordinates line array configurations, wall and ceiling speakers, stage monitoring, mixing consoles, podium setups, wireless and stage microphones, snake cables, and HD connections for high-capacity performance spaces.",
+        "Auditorium setups require perfect sound delivery from stage to the last row. Modern Audio coordinates line array setups, wall and ceiling speakers, stage monitoring, mixing consoles, podium setups, wireless and stage microphones, snake cables, and HD connections for high-capacity live performance.",
       image: "/images/event-public-space.jpg",
       imageAlt: "Grand tiered performance auditorium with suspended line array sound system clusters and stage acoustics",
       href: "/solutions/auditorium-sound-system-delhi",
@@ -806,27 +806,27 @@ export const SITE_CONFIG = {
   processStages: [
     {
       step: "01",
-      title: "Requirement Review",
-      tagline: "Understand the venue type, audience, and system purpose.",
+      title: "Requirement Check",
+      tagline: "We understand your space, your audience and your needs.",
       summary:
-        "Before proposing equipment, we review your venue dimensions, room layout, primary use case (speech, background music, live performance, or two-way talkback), and audience requirements.",
+        "Before proposing equipment, we check your room size, venue acoustics, layout(speech, background music, live performance, or two-way talkback), your pupose and your audience plan.",
       details: [
         "Venue type & room dimension review",
-        "Usage profile (speech, broadcast, live performance, talkback)",
-        "Input source and microphone requirements assessment",
+        "Main purpose (speech, broadcast, live performance, talkback)",
+        "Input source and microphone requirements check",
       ],
       image: "/images/venue-acoustic-planning.jpg",
     },
     {
       step: "02",
-      title: "System Configuration",
-      tagline: "Determine a suitable, balanced audio equipment setup.",
+      title: "System Set-up",
+      tagline: "We choose the right balanced sound system setup for you.",
       summary:
-        "We map out speaker placement (wall, ceiling, or floor), amplifier channel counts, active vs passive options, microphone configurations, and cabling requirements suited to your layout.",
+        "We plan speaker placement (wall, ceiling, or floor), amplifier channel counts, active vs passive options, microphone setups, and cabling requirements suited to your layout.",
       details: [
-        "Loudspeaker format & placement mapping",
-        "Digital vs analog mixer & processor matching",
-        "Cabling, zoning & talkback routing structure",
+        "Loudspeaker typed & placement plan",
+        "Digital vs analog 'mixer & processor' matching",
+        "Cabling, zonal works & talkback connector setups",
       ],
       image: "/images/audio-console-detail.jpg",
     },
@@ -835,10 +835,10 @@ export const SITE_CONFIG = {
       title: "Quotation & Sourcing",
       tagline: "Prepare transparent quotations and arrange verified equipment.",
       summary:
-        "Drawing upon established relationships across leading commercial audio manufacturers and verified distributors, we recommend equipment that fits your performance demands and budget with itemized specifications.",
+        "Drawing upon established relationships across leading commercial audio manufacturers and verified distributors, we recommend equipment that fits your performance demands and budget with clear priceup and specifications.",
       details: [
-        "Itemised component breakdowns",
-        "Compatibility verification across hardware",
+        "Product list with model numbers and best pricing",
+        "Compatibility verification for all the equipments",
         "Equipment sourcing through verified commercial channels",
       ],
       image: "/images/event-public-space.jpg",

@@ -192,22 +192,22 @@ export default function NarrativeParallaxSection() {
   const acousticSpecs = [
     {
       num: "01",
-      title: "Venue layout and mounting architecture",
-      body: "From lecture halls to worship sanctuaries, we match speaker formats (wall-mounted, flush ceiling, or floor-mounted) to room dimensions to ensure balanced coverage without visual clutter.",
+      title: "Venue layout and Speaker placements",
+      body: "From lecture halls to religious places, we choose the right speakers that fit your space(walls, ceiling or floor) perfectly, give balanced sound, No Visual clutter.",
       spec: "PLACEMENT: WALL / CEILING / FLOOR",
       badge: "SPATIAL ALIGNMENT",
     },
     {
       num: "02",
-      title: "Active and passive system coordination",
-      body: "Whether your setup benefits from self-powered active enclosures or centralized multi-channel distribution amplifiers with passive speaker networks, we match the right power architecture to the venue.",
+      title: "Active and passive sound system setup",
+      body: "Whether your space needs self-powered speakers or a central amplifier with passive speakers, we choose the best performance setup for the venue.",
       spec: "TOPOLOGY: ACTIVE & PASSIVE",
       badge: "POWER MATCHING",
     },
     {
       num: "03",
-      title: "Source routing, zoning and feedback control",
-      body: "From wireless handhelds, podium mics, and mixer delays/reverbs to processors with feedback destroyers and multi-zone routing, signal management keeps every voice clear and stable.",
+      title: "Source management zones and feedback control",
+      body: "From wireless mics and podium mics, to mixers & processors with feedback destroyers and multi zone controls we ensure clear and stable sound in every corner.",
       spec: "CONTROL: DIGITAL & ANALOG",
       badge: "SIGNAL STABILITY",
     },
@@ -312,7 +312,7 @@ export default function NarrativeParallaxSection() {
                 color: "#FFFFFF",
               }}
             >
-              Sound configured for the way your space operates.
+              Sound that fits your space.
             </h2>
 
             <p
@@ -323,7 +323,7 @@ export default function NarrativeParallaxSection() {
                 marginBottom: "2.25rem",
               }}
             >
-              An auditorium, a school classroom, a hotel conference hall, and a prayer sanctuary do not share the same audio requirements. The right solution begins with understanding what the space needs to achieve.
+              An auditorium, a school classroom, a hotel conference, a banquet hall, and a prayer halls do not have the same audio requirements. The right solution begins with understanding the space, is where the perfect sound begins.
             </p>
 
             <div
@@ -334,7 +334,7 @@ export default function NarrativeParallaxSection() {
               }}
             >
               <p style={{ fontSize: "1rem", color: "#A8A8A8", lineHeight: 1.65 }}>
-                We plan around physical layout, speaker mounting constraints, active vs passive needs, and source routing before recommending hardware from our verified distributor network.
+                We study your physical space, your layout speaker options, sound & requirements, Before recommending any product from our verified distributor network.
               </p>
             </div>
           </div>

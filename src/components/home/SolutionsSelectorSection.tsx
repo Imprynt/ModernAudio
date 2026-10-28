@@ -214,7 +214,7 @@ export default function SolutionsSelectorSection() {
               marginBottom: "1.25rem",
             }}
           >
-            Sound that fits your space.
+            Spaces we setup audio systems for.
           </h2>
 
           <p
@@ -224,7 +224,7 @@ export default function SolutionsSelectorSection() {
               color: "var(--text-secondary, #57534E)",
             }}
           >
-            Every institutional and commercial venue operates under distinct functional demands. Explore our audio system configurations across specialized venue environments.
+            Every institutional and commercial has different functional demands, explore our audio systems, configurations across all types of venues.
           </p>
         </div>
 

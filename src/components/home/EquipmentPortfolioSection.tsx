@@ -164,7 +164,7 @@ export default function EquipmentPortfolioSection() {
               marginBottom: "0.65rem",
             }}
           >
-            HARDWARE INVENTORY • 09 CATEGORIES
+            AVAILABLE STOCK INVENTORY • 09 CATEGORIES
           </span>
           <h2
             style={{
@@ -186,7 +186,7 @@ export default function EquipmentPortfolioSection() {
               color: "#CCCCCC",
             }}
           >
-            Digital and analog audio hardware configurations supplied and planned for institutional campuses, commercial facilities, and live sound environments across Delhi, NCR & Pan India.
+            Digital and analog audio sysytem supplied and planned for institutional campuses(schools,colleges,etc), commercial facilities(Offices,businesses,etc), and live sound environments(live events,shows,etc) across Delhi, NCR & Pan India.
           </p>
         </div>
 

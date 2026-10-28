@@ -149,7 +149,7 @@ export default function RequirementFactorsSection() {
                 marginBottom: "2rem",
               }}
             >
-              You don&apos;t need to know every technical decibel rating before reaching out. You tell us what your space needs to do, and we help you work out what the audio solution should address.
+              You don&apos;t need any technical knowledge before searching out, We handle that. Tell us your space, your story and we will add sound .
             </p>
             <NextLink href="/contact" className="btn-primary">
               <span>{SITE_CONFIG.cta.primary}</span>

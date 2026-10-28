@@ -377,7 +377,7 @@ export default function HeroSection() {
                 textShadow: "0 2px 14px rgba(0, 0, 0, 0.8)",
               }}
             >
-              Before proposing equipment, we evaluate your room dimensions, venue acoustics, and audience coverage. You define what the space needs to achieve, and we coordinate the complete sound setup that brings it to life.
+              Before proposing equipment, we study your room size, venue, acoustics, and audience coverage. You bring the space, We bring the sound.
             </p>
 
             {/* Action Buttons */}

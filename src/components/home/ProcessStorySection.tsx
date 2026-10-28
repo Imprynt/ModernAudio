@@ -89,7 +89,7 @@ export default function ProcessStorySection() {
               marginBottom: "1.25rem",
             }}
           >
-            From the first conversation to a solution that fits.
+            From the first conversation to a perfect solution.
           </h2>
 
           <p
@@ -99,7 +99,7 @@ export default function ProcessStorySection() {
               color: "var(--text-secondary, #57534E)",
             }}
           >
-            We remove the guesswork from audio planning. Every project follows a deliberate five-stage path designed around your space.
+            We make it simple. Every project follows a simple five-stage steps, your space built around.
           </p>
         </div>
 
@@ -274,7 +274,7 @@ export default function ProcessStorySection() {
                   marginBottom: "0.6rem",
                 }}
               >
-                Key Deliverables &amp; Activities
+                WHAT WE DELIVER  &amp; WHAT YOU WILL GET
               </span>
               <div style={{ display: "flex", flexWrap: "wrap", gap: "0.5rem" }}>
                 {currentStage.details.map((detail, dIdx) => (
