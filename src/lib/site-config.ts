@@ -497,7 +497,7 @@ export const SITE_CONFIG = {
     {
       id: "religious-community",
       slug: "temple-mosque-gurdwara-sound-system",
-      label: "Temples, Mosques & Gurdwaras",
+      label: "Temples, Mosques, Gurdwaras & Churches",
       tagline: "Prayer recitation clarity, reverberant hall speech, and outdoor minaret horns",
       headline: "Acoustically balanced sound systems for places of worship and spiritual community halls.",
       description:
