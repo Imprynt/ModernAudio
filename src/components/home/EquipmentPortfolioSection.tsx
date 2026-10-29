@@ -177,7 +177,7 @@ export default function EquipmentPortfolioSection() {
               marginBottom: "1.25rem",
             }}
           >
-            Equipment we supply.
+            Equipment We Supply.
           </h2>
           <p
             style={{
@@ -605,7 +605,7 @@ export default function EquipmentPortfolioSection() {
                 Key Components Included
               </span>
               <div style={{ display: "flex", flexWrap: "wrap", gap: "0.4rem" }}>
-                {current.characteristics.slice(0, 3).map((char) => (
+                {current.characteristics.map((char) => (
                   <span
                     key={char}
                     style={{

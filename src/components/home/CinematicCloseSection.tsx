@@ -128,7 +128,7 @@ export default function CinematicCloseSection() {
               textWrap: "balance",
             }}
           >
-            Your space has a purpose. Let&apos;s get the sound right.
+            Your Space Has a Purpose. Let&apos;s Get The Sound Right.
           </h2>
 
           <p

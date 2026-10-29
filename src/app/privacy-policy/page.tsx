@@ -60,7 +60,7 @@ export default function PrivacyPolicyPage() {
                 1. Overview and Scope
               </h2>
               <p>
-                Modern Audio Company Private Limited (&ldquo;Modern Audio Co.&rdquo;, &ldquo;we&rdquo;, &ldquo;our&rdquo;, or &ldquo;us&rdquo;) is an institutional and commercial audio supplier and systems integrator operating from Chandni Chowk, Delhi 110006, serving clients across Delhi, NCR & Pan India. This Privacy Policy outlines how we collect, store, and process information submitted by representatives of businesses, educational institutions, hospitality spaces, and community facilities inquiring about commercial audio systems.
+                Modern Audio Company Private Limited (&ldquo;Modern Audio Co.&rdquo;, &ldquo;we&rdquo;, &ldquo;our&rdquo;, or &ldquo;us&rdquo;) is an institutional and commercial audio supplier and systems integrator, serving clients across Delhi, NCR & Pan India. This Privacy Policy outlines how we collect, store, and process information submitted by representatives of businesses, educational institutions, hospitality spaces, and community facilities inquiring about commercial audio systems.
               </p>
             </section>
 

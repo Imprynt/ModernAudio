@@ -136,7 +136,7 @@ export default function RequirementFactorsSection() {
                 lineHeight: 1.05,
               }}
             >
-              The right system starts with the right questions.
+              The Right System Starts With The Right Questions.
             </h2>
           </div>
 
@@ -149,7 +149,7 @@ export default function RequirementFactorsSection() {
                 marginBottom: "2rem",
               }}
             >
-              You don&apos;t need any technical knowledge before searching out, We handle that. Tell us your space, your story and we will add sound .
+              You don&apos;t need any technical knowledge before reaching out, We handle that, Talk to us. Tell us your space, your story and we will add sound .
             </p>
             <NextLink href="/contact" className="btn-primary">
               <span>{SITE_CONFIG.cta.primary}</span>

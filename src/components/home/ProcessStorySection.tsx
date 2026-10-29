@@ -89,7 +89,7 @@ export default function ProcessStorySection() {
               marginBottom: "1.25rem",
             }}
           >
-            From the first conversation to a perfect solution.
+            From the First Conversation to a Perfect Solution.
           </h2>
 
           <p
@@ -99,7 +99,7 @@ export default function ProcessStorySection() {
               color: "var(--text-secondary, #57534E)",
             }}
           >
-            We make it simple. Every project follows a simple five-stage steps, your space built around.
+            We remove the guesswork from audio planning, We make it simple. Every project follows a simple five-stage steps, your space built around.
           </p>
         </div>
 

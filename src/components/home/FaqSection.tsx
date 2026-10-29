@@ -124,7 +124,7 @@ export default function FaqSection() {
               marginBottom: "1.25rem",
             }}
           >
-            Clear answers about our service.
+            Clear Answers About Our Service.
           </h2>
 
           <p

@@ -101,7 +101,7 @@ export default function CredibilitySection() {
               marginBottom: "1.25rem",
             }}
           >
-            Built on sound principles.
+            Built On Sound Principles.
           </h2>
 
           <p

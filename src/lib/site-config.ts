@@ -73,7 +73,7 @@ export const SITE_CONFIG = {
 
   // Brand Messaging
   tagline: "Complete Audio Solutions. Designed Around Your Space.",
-  promise: "You bring the requirement. We have the audio.",
+  promise: "You Bring The Requirement. We Handle The Audio.",
   description:
     "Born in Chandni Chowk, Delhi, Modern Audio Company Private Limited provides complete commercial, institutional, and hospitality audio systems across Delhi, NCR & Pan India.",
 
@@ -199,7 +199,14 @@ export const SITE_CONFIG = {
       scope: "Active & Passive · Outdoor & Indoor",
       image: "/images/equipment-speakers.jpg",
       imageAlt: "Wall-mounted and flush ceiling architectural speakers for institutional sound",
-      characteristics: ["Wall-mounted speaker setups", "Ceiling-mounted speaker setups", "Floor-mounted speaker setups"],
+      characteristics: [
+        "Wall-mounted speaker setups",
+        "Ceiling-mounted speaker setups",
+        "Floor-mounted speaker setups",
+        "All-weather speakers",
+        "Waterproof speakers",
+        "Garden speakers",
+      ],
       description:
         "Complete indoor and outdoor speaker systems across active (powered) and passive setups, for wall mounting, ceiling placement, and floor installations.",
       typicalSetups: ["Wall-mount speaker arrays", "Ceiling speaker networks", "Floor-standing systems"],
@@ -218,7 +225,7 @@ export const SITE_CONFIG = {
         "Stage microphones",
       ],
       description:
-        "Wired and wireless microphone solutions for podium speech, stage performances, academic presentation, and conference room discussions.",
+        "Wired and wireless microphone solutions required for podium speech, stage performances, academic presentation, and conference room discussions.",
       typicalSetups: ["Wireless podium mics", "Lapel and headset packs", "Tabletop conference units", "Stage vocal microphones"],
     },
     {
@@ -232,7 +239,7 @@ export const SITE_CONFIG = {
         "Digital Echo, Delay & Reverb processing",
       ],
       description:
-        "Digital and analog mixing consoles supporting multiple input/output channel routing with built-in digital echo, delay, and reverb options for clear and balanced sound.",
+        "Digital and analog mixing consoles supporting multiple input/output channels with built-in digital echo, delay, and reverb options for clear and balanced sound.",
       typicalSetups: ["Auditorium mixing consoles", "Live-stage performance mixers", "Multi-input routing setups"],
     },
     {
@@ -243,7 +250,7 @@ export const SITE_CONFIG = {
       imageAlt: "Digital audio signal processors with integrated automated feedback destroyers",
       characteristics: ["Integrated feedback destroyers", "Signal stability management"],
       description:
-        "Digital and analog signal processors equipped with feedback destroyers to eliminate howling, protect loudspeakers, and maintain clean system stability for maintaining 'सुर' and 'ताल' of every setup.",
+        "Digital and analog signal processors equipped with feedback destroyers to eliminate howling, protect loudspeakers, and maintain clean system stability for maintaining 'सुर and ताल' of every sound setup.",
       typicalSetups: ["Feedback elimination", "Signal balancing", "System protection routing"],
     },
     {
@@ -276,7 +283,7 @@ export const SITE_CONFIG = {
       imageAlt: "Two-way commercial kitchen talkback intercom station for restaurants and hotels",
       characteristics: ["Two-way service talkback", "High-noise station clarity", "Durable interface stations"],
       description:
-        "Dedicated commercial talkback sound systems designed for shopping malls, restaurants, cinema halls, dining facilities, schools, colleges and hospitality kitchens to ensure instant communication between representative and client.",
+        "Dedicated commercial talkback sound systems designed for shopping malls, restaurants, dining facilities, schools, colleges, hospitality, kitchens, etc to ensure instant communication between the representative and the client.",
       typicalSetups: ["Kitchen pass talkback", "Service-to-prep communication", "Hospitality intercom routing"],
     },
     {
@@ -304,7 +311,7 @@ export const SITE_CONFIG = {
       slug: "auditorium-sound-system-delhi",
       label: "Auditoriums & Halls",
       tagline: "High-capacity venues requiring structured sound and stage management",
-      headline: "Comprehensive audio systems tailored for large auditoriums, cultural theatres, and multi-purpose halls.",
+      headline: "Complete audio systems tailored for large auditoriums, cultural theatres, and multi-purpose halls.",
       description:
         "Auditorium setups require perfect sound delivery from stage to the last row. Modern Audio coordinates line array setups, wall and ceiling speakers, stage monitoring, mixing consoles, podium setups, wireless and stage microphones, snake cables, and HD connections for high-capacity live performance.",
       image: "/images/event-public-space.jpg",
@@ -322,7 +329,7 @@ export const SITE_CONFIG = {
         "Snake cable setups",
         "HD connections setups",
       ],
-      relatedSlugs: ["cinema-hall-sound-system", "school-college-audio-systems", "hotel-banquet-audio-systems"],
+      relatedSlugs: ["school-college-audio-systems", "hotel-banquet-audio-systems", "shopping-mall-public-address-system"],
       metaTitle: "Auditorium Sound System in Delhi, NCR & Pan India | Modern Audio Co.",
       metaDescription:
         "Line arrays, stage monitoring, mixing consoles and podium microphones engineered for high-capacity auditoriums and performance halls in Delhi, NCR & Pan India.",
@@ -424,36 +431,6 @@ export const SITE_CONFIG = {
         {
           q: "How is speech intelligibility maintained in cavernous mall atriums?",
           a: "We specify distributed low-profile speaker clusters and calibrated delay lines rather than blasting from single central points, preventing echo reflection off glass and marble surfaces.",
-        },
-      ],
-    },
-    {
-      id: "cinema-halls",
-      slug: "cinema-hall-sound-system",
-      label: "Cinema Halls",
-      tagline: "Immersive multi-channel surround, auditorium subwoofers, and processing",
-      headline: "Dedicated cinema sound architectures for multiplex screens, private theatres, and screening rooms.",
-      description:
-        "Cinema spaces require precise audio reproduction across wide dynamic ranges, from intimate dialogue to high-impact low frequencies. Modern Audio configures behind-screen speaker channels, surround arrays, high-power subwoofers, and digital cinema processors.",
-      image: "/images/cinema-auditorium.jpg",
-      imageAlt: "Multiplex cinema screening hall featuring behind-screen sound channels and high-output subwoofer cabinets",
-      href: "/solutions/cinema-hall-sound-system",
-      systemScope: "Multi-Channel Surround & High-Output Cinema",
-      configurations: [
-        "Behind-screen screen speaker channels",
-        "Auditorium wall surround speaker arrays",
-        "High-output low-frequency subwoofer systems",
-        "Multi-channel cinema power amplification",
-        "Cinema audio processor integration",
-      ],
-      relatedSlugs: ["auditorium-sound-system-delhi", "nightclub-dj-line-array-systems", "hotel-banquet-audio-systems"],
-      metaTitle: "Cinema Hall & Theatre Sound Systems Delhi | Modern Audio Co.",
-      metaDescription:
-        "Screen channels, surround arrays, high-power subwoofers, and cinema power amplification for multiplexes and screening auditoriums in Delhi, NCR & Pan India.",
-      faqs: [
-        {
-          q: "Do you supply behind-screen speaker systems?",
-          a: "Yes. We configure multi-way screen channels engineered to project clearly through perforated projection screens without high-frequency muffling.",
         },
       ],
     },
@@ -596,7 +573,7 @@ export const SITE_CONFIG = {
         "Snake cable setups",
         "High-output active/passive speaker setups",
       ],
-      relatedSlugs: ["restaurant-cafe-kitchen-talkback-system", "auditorium-sound-system-delhi", "cinema-hall-sound-system"],
+      relatedSlugs: ["restaurant-cafe-kitchen-talkback-system", "auditorium-sound-system-delhi", "hotel-banquet-audio-systems"],
       metaTitle: "Nightclub & DJ Line Array Sound Systems Delhi | Modern Audio Co.",
       metaDescription:
         "High-impact curved line arrays, stage monitoring, DJ consoles with pitch controls, and multi-channel power amplification for clubs across Delhi, NCR & Pan India.",
@@ -809,9 +786,9 @@ export const SITE_CONFIG = {
       title: "Requirement Check",
       tagline: "We understand your space, your audience and your needs.",
       summary:
-        "Before proposing equipment, we check your room size, venue acoustics, layout(speech, background music, live performance, or two-way talkback), your pupose and your audience plan.",
+        "Before proposing equipment, we check your room size, venue acoustics, layout plan, your prupose(speech, background music, live performance, or two-way talkback) and your audience plan.",
       details: [
-        "Venue type & room dimension review",
+        "Venue type & room size review",
         "Main purpose (speech, broadcast, live performance, talkback)",
         "Input source and microphone requirements check",
       ],
@@ -824,7 +801,7 @@ export const SITE_CONFIG = {
       summary:
         "We plan speaker placement (wall, ceiling, or floor), amplifier channel counts, active vs passive options, microphone setups, and cabling requirements suited to your layout.",
       details: [
-        "Loudspeaker typed & placement plan",
+        "Loudspeaker type & placement plan",
         "Digital vs analog 'mixer & processor' matching",
         "Cabling, zonal works & talkback connector setups",
       ],
@@ -835,7 +812,7 @@ export const SITE_CONFIG = {
       title: "Quotation & Sourcing",
       tagline: "Prepare transparent quotations and arrange verified equipment.",
       summary:
-        "Drawing upon established relationships across leading commercial audio manufacturers and verified distributors, we recommend equipment that fits your performance demands and budget with clear priceup and specifications.",
+        "Drawing upon established relationships across leading commercial audio manufacturers and verified distributors, we recommend equipment that fits your performance demands and budget with clear pricing and specifications.",
       details: [
         "Product list with model numbers and best pricing",
         "Compatibility verification for all the equipments",
@@ -879,7 +856,7 @@ export const SITE_CONFIG = {
     },
     {
       q: "Can Modern Audio handle complete system setups for different institutions?",
-      a: "Yes. We configure specialized setups for schools, colleges, auditoriums, hotels, shopping malls, cinema halls, hospitals, metro stations, religious places (temples, mosques, gurdwaras, churches, satsang bhawans), restaurants, cafés, discotheques, residential societies, social clubs, theme parks and outdoor stadiums. Every configuration is planned around the venue's specific layout and functional needs.",
+      a: "Yes. We configure specialized setups for schools, colleges, auditoriums, hotels, shopping malls, hospitals, metro stations, religious places (temples, mosques, gurdwaras, churches, satsang bhawans), restaurants, cafés, discotheques, residential societies, social clubs, theme parks and outdoor stadiums. Every configuration is planned around the venue's specific layout and functional needs.",
     },
     {
       q: "Do you customise sound for other kinds of venues?",

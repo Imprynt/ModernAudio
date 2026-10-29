@@ -24,7 +24,6 @@ const spaceOptions = [
   { value: "schools-colleges", label: "School / College / Classroom System" },
   { value: "hotels", label: "Hotel / Banquet / Meeting Facility" },
   { value: "shopping-malls", label: "Shopping Mall / Retail Atrium" },
-  { value: "cinema-halls", label: "Cinema Hall / Screening Venue" },
   { value: "hospitals", label: "Hospital / Healthcare Facility" },
   { value: "metro-stations", label: "Metro Station / Transit Platform" },
   { value: "religious-community", label: "Religious Place (Temple, Mosque, Gurdwara, Church, Satsang Bhawan)" },
@@ -284,7 +283,7 @@ export default function EnquirySection({
               marginBottom: "1rem",
             }}
           >
-            Tell us about your space.
+            Tell us About Your Space.
           </h2>
           <p
             style={{
@@ -296,7 +295,7 @@ export default function EnquirySection({
               lineHeight: 1.6,
             }}
           >
-            Share your room dimensions, venue type, and requirements with our experienced technical team for an honest evaluation and setup plan.
+            Share your room dimensions, venue type, layout plan and requirements with our experienced technical team for an honest evaluation and setup plan.
           </p>
         </div>
       )}

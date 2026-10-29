@@ -22,7 +22,7 @@ const VALUES: CoreValue[] = [
   {
     title: "Expert Setup Team",
     description:
-      "Experienced technicians handeling speaker mounting, wiring, gain levels, and signal tuning.",
+      "Experienced technicians handeling speaker setup, wiring, gain levels, and signal tuning.",
   },
   {
     title: "Transparent Pricing",
