@@ -37,7 +37,7 @@ export default function FaqSection() {
       case 7:
       case 8:
       case 9:
-        return { href: "/contact", label: "Contact Our Chandni Chowk Base" };
+        return { href: "/contact", label: "Contact Us" };
       default:
         return null;
     }

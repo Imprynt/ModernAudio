@@ -177,10 +177,10 @@ export default function CredibilitySection() {
                   marginBottom: "0.4rem",
                 }}
               >
-                Registered Facility
+                Heritage &amp; Presence
               </span>
               <p style={{ fontSize: "0.95rem", color: "var(--text-primary, #1C1917)", fontWeight: 600, lineHeight: 1.5, margin: 0 }}>
-                {SITE_CONFIG.address.full}
+                Born in Chandni Chowk , Raised in India
               </p>
             </div>
           </div>

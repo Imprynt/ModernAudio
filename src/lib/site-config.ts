@@ -351,7 +351,7 @@ export const SITE_CONFIG = {
       tagline: "Campus broadcasting, classroom talkback, and multi-zone distribution",
       headline: "Reliable educational sound systems for classrooms, academic halls, and campus administration.",
       description:
-        "Educational environments need clear speech delivery and prompt communication. Serving K-12 institutions, private academies, and university campuses, Modern Audio configures classroom audio, centralized campus broadcasting systems, independent zonal controls, and two-way talkback systems.",
+        "Educational environments need clear speech delivery and fast communication. Serving K-12 institutions, private academies, and university campuses, Modern Audio setup classroom audio, centralized campus broadcasting systems, independent zonal controls, and two-way talkback systems.",
       image: "/images/space-education.jpg",
       imageAlt: "Educational lecture hall and campus facility equipped with zoned public address and talkback systems",
       href: "/solutions/school-college-audio-systems",
@@ -379,7 +379,7 @@ export const SITE_CONFIG = {
       slug: "hotel-banquet-audio-systems",
       label: "Hotels & Hospitality",
       tagline: "Meeting halls, banquets, and distributed ceiling speaker systems",
-      headline: "Refined sound systems for conference rooms, banquet venues, and hotel reception areas.",
+      headline: "Refined sound systems for conference rooms, banquet halls, and hotel reception areas, garden areas, pool area, outdoor party areas.",
       description:
         "Hospitality venues balance speech clarity for corporate meetings with ambient distribution for social gatherings. Modern Audio coordinates flush ceiling speakers, wall-mount enclosures, conference tabletop microphones, lapel packs, and zonal volume controls for hotels across Delhi, NCR & Pan India.",
       image: "/images/hotel-conference.jpg",
@@ -392,6 +392,7 @@ export const SITE_CONFIG = {
         "Tabletop conference systems",
         "Lapel & collar microphone setups",
         "Ceiling speaker networks",
+        "Outdoor areas (garden & pool areas)",
       ],
       relatedSlugs: ["restaurant-cafe-kitchen-talkback-system", "auditorium-sound-system-delhi", "shopping-mall-public-address-system"],
       metaTitle: "Hotel & Banquet Audio Systems Delhi, NCR & Pan India | Modern Audio Co.",
@@ -411,7 +412,7 @@ export const SITE_CONFIG = {
       tagline: "High-volume public address, multi-floor routing, and background music",
       headline: "Multi-zone public address systems engineered for multi-level retail complexes.",
       description:
-        "Commercial shopping malls require consistent, fatigue-free background music alongside intelligible voice paging across extensive square footage. We coordinate high-channel distribution amplifiers, ceiling and pendant speakers, emergency microphone stations, and floor-by-floor zoning.",
+        "Commercial shopping malls require consistent, fatigue-free background music alongside intelligible voice paging across entire mall area. We setup high-channel distribution amplifiers, ceiling and pendant speakers, emergency microphone stations, and floor-by-floor zoning.",
       image: "/images/shopping-mall-atrium.jpg",
       imageAlt: "Multi-level commercial shopping mall atrium with zoned background music distribution and emergency paging horns",
       href: "/solutions/shopping-mall-public-address-system",
@@ -441,7 +442,7 @@ export const SITE_CONFIG = {
       tagline: "Clear paging, emergency announcements, and nurse station talkback",
       headline: "Mission-critical paging and announcement systems for healthcare campuses.",
       description:
-        "Healthcare facilities rely on round-the-clock voice clarity without startling patients. Modern Audio configures zoned public address systems for patient wards, outpatient concourses, ICUs, doctor consultation suites, and two-way nurse station talkback.",
+        "Healthcare facilities rely on round-the-clock voice clarity without startling patients. Modern Audio setup zoned public address systems for patient wards, outpatient concourses, ICUs, doctor consultation suites, and two-way nurse station talkback.",
       image: "/images/hospital-healthcare.jpg",
       imageAlt: "Modern healthcare facility patient reception concourse with speech-optimized public address paging network",
       href: "/solutions/hospital-public-address-system",
@@ -471,7 +472,7 @@ export const SITE_CONFIG = {
       tagline: "High-noise intelligibility, platform paging, and centralized routing",
       headline: "Industrial-grade passenger announcement systems for transport terminals and concourses.",
       description:
-        "Transit facilities present difficult acoustic conditions with rushing train noise, echoing concrete, and continuous passenger flow. Modern Audio configures speech-optimized horn arrays, platform column speakers, ticket concourse paging, and centralized control desks.",
+        "Transit facilities present difficult sound conditions with rushing train noise, echoes, and continuous passenger flow. Modern Audio setup speech-optimized horn arrays, platform column speakers, ticket concourse paging, and centralized control desks.",
       image: "/images/metro-station-concourse.jpg",
       imageAlt: "Transit metro station passenger platform and ticket concourse with noise-compensating public announcement horns",
       href: "/solutions/metro-station-announcement-system",
@@ -884,7 +885,7 @@ export const SITE_CONFIG = {
     },
     {
       q: "Which areas does Modern Audio serve, and do you cover projects outside Delhi?",
-      a: "Modern Audio Company Private Limited is headquartered in Chandni Chowk, Delhi, and serves commercial, institutional, and hospitality clients across Delhi, NCR & Pan India. Outstation and institutional projects across India are accommodated with dedicated logistics and equipment planning based on project scope.",
+      a: "Modern Audio Company Private Limited is born in Chandni Chowk, Delhi, and serves commercial, institutional, and hospitality clients across Delhi, NCR & Pan India. Outstation and institutional projects across India are accommodated with dedicated logistics and equipment planning based on project scope.",
     },
   ] as FAQItem[],
 };

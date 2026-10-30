@@ -262,8 +262,7 @@ export default function Navbar() {
             </NextLink>
 
             <div style={{ fontSize: "0.85rem", color: "#8E8E8E", fontFamily: "var(--font-family-sans)" }}>
-              <p>{SITE_CONFIG.address.street}</p>
-              <p>{SITE_CONFIG.address.area}, {SITE_CONFIG.address.city} {SITE_CONFIG.address.postalCode}</p>
+              <p>Born in Chandni Chowk , Raised in India</p>
             </div>
           </div>
         </div>

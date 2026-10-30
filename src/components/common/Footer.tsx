@@ -172,11 +172,7 @@ export default function Footer() {
               <MapPin size={18} style={{ color: "var(--accent-red)", flexShrink: 0, marginTop: "2px" }} />
               <div>
                 <address style={{ fontStyle: "normal", fontSize: "0.88rem", lineHeight: "1.6" }}>
-                  {SITE_CONFIG.address.street}
-                  <br />
-                  {SITE_CONFIG.address.area}, {SITE_CONFIG.address.city} {SITE_CONFIG.address.postalCode}
-                  <br />
-                  {SITE_CONFIG.address.country}
+                  Born in Chandni Chowk , Raised in India
                 </address>
                 <div style={{ marginTop: "0.75rem", display: "flex", flexDirection: "column", gap: "0.35rem" }}>
                   <a

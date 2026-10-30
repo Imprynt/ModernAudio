@@ -127,8 +127,7 @@ export default function PrivacyPolicyPage() {
               </p>
               <div style={{ marginTop: "1rem", backgroundColor: "rgba(255, 255, 255, 0.03)", padding: "1.25rem", borderRadius: "6px", border: "1px solid rgba(255, 255, 255, 0.08)" }}>
                 <p><strong>Modern Audio Company Private Limited</strong></p>
-                <p>{SITE_CONFIG.address.street}</p>
-                <p>{SITE_CONFIG.address.area}, {SITE_CONFIG.address.city} {SITE_CONFIG.address.postalCode}, India</p>
+                <p>Born in Chandni Chowk , Raised in India</p>
                 <p style={{ marginTop: "0.5rem" }}>Email: <a href={`mailto:${SITE_CONFIG.contact.email}`} style={{ color: "#FFFFFF" }}>{SITE_CONFIG.contact.email}</a></p>
                 <div style={{ display: "flex", gap: "0.4rem" }}>
                   <span>Direct:</span>

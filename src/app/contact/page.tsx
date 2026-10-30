@@ -157,14 +157,10 @@ export default function ContactPage() {
                             marginBottom: "0.25rem",
                           }}
                         >
-                          PHYSICAL & REGISTERED ADDRESS
+                          PRESENCE &amp; HERITAGE
                         </span>
                         <address style={{ fontStyle: "normal", fontSize: "0.95rem", color: "#FFFFFF", lineHeight: 1.6 }}>
-                          {SITE_CONFIG.address.street}
-                          <br />
-                          {SITE_CONFIG.address.area}, {SITE_CONFIG.address.city} {SITE_CONFIG.address.postalCode}
-                          <br />
-                          {SITE_CONFIG.address.country}
+                          Born in Chandni Chowk , Raised in India
                         </address>
 
                         <div style={{ marginTop: "1.25rem", display: "flex", flexDirection: "column", gap: "0.4rem", fontSize: "0.95rem", lineHeight: 1.6 }}>
@@ -188,6 +184,7 @@ export default function ContactPage() {
                       </div>
                     </div>
 
+                    {/* Hidden for now until new address is updated
                     <a
                       href={SITE_CONFIG.address.mapsUrl}
                       target="_blank"
@@ -203,6 +200,7 @@ export default function ContactPage() {
                       <span>Open Address on Google Maps</span>
                       <ExternalLink size={14} />
                     </a>
+                    */}
                   </div>
 
                   {/* Verified Communications Channels */}
@@ -263,8 +261,9 @@ export default function ContactPage() {
           </div>
         </section>
 
-        {/* Find Us Location Map */}
+        {/* Find Us Location Map - hidden temporarily
         <LocationMap />
+        */}
       </main>
       <Footer />
     </SmoothScroll>

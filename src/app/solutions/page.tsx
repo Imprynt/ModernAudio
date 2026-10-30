@@ -133,7 +133,7 @@ export default function SolutionsPage() {
                   marginBottom: "2.5rem",
                 }}
               >
-                Headquartered in Chandni Chowk, Delhi, Modern Audio coordinates complete audio systems for institutional campuses, corporate facilities, and commercial venues across Delhi, NCR & Pan India. Explore our portfolio of institutional and commercial applications and the complete professional audio equipment taxonomy that powers them.
+                Born in Chandni Chowk, Delhi, Modern Audio coordinates complete audio systems for institutional campuses, corporate facilities, and commercial venues across Delhi, NCR & Pan India. Explore our portfolio of institutional and commercial projects and the complete professional audio system that powers them.
               </p>
 
               {/* Jump Anchor Links */}
@@ -229,7 +229,7 @@ export default function SolutionsPage() {
                 Professional audio equipment and complete systems
               </h2>
               <p style={{ fontSize: "1.05rem", color: "#A8A8A8", lineHeight: 1.65 }}>
-                Modern Audio supplies and configures digital and analog equipment spanning single-channel units to multi-channel live and zonal system setups. All categories below reflect our stated portfolio.
+                Modern Audio supplies and setup digital and analog system ranging from single-channel units to multi-zone live setups. All categories below reflect our stated portfolio.
               </p>
             </div>
 
@@ -569,7 +569,7 @@ export default function SolutionsPage() {
                   marginBottom: "2.5rem",
                 }}
               >
-                Share your room dimensions, venue type, and functional requirements with our Chandni Chowk team for an honest equipment evaluation and system configuration plan across Delhi, NCR & Pan India.
+                Share your room dimensions, venue type, and functional requirements with our technical team for an honest equipment evaluation and system configuration plan across Delhi, NCR & Pan India.
               </p>
 
               <div

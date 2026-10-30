@@ -82,8 +82,9 @@ export default function HomePage() {
         {/* Section 11: Final Cinematic Close */}
         <CinematicCloseSection />
 
-        {/* Section 12: Find Us Location Map */}
+        {/* Section 12: Find Us Location Map - hidden temporarily
         <LocationMap />
+        */}
       </main>
       <Footer />
     </SmoothScroll>

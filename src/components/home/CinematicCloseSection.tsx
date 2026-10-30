@@ -190,7 +190,7 @@ export default function CinematicCloseSection() {
               textTransform: "uppercase",
             }}
           >
-            {SITE_CONFIG.address.street} · {SITE_CONFIG.address.area}, DELHI
+            Born in Chandni Chowk , Raised in India
           </div>
         </div>
       </div>
